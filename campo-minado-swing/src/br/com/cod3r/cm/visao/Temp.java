@@ -21,6 +21,6 @@ public static void main(String[] args) {
 	tabuleiro.alternarMarcacao(1, 2);
 	tabuleiro.alternarMarcacao(2, 0);
 	tabuleiro.alternarMarcacao(2, 1);
-	//tabuleiro.alternarMarcacao(2, 2);
+	tabuleiro.alternarMarcacao(2, 2);
 }
 }
